@@ -1,0 +1,11 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bolder;
+    background-color: blueviolet;
+}
